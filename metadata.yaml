@@ -1,0 +1,27 @@
+_repo: Grain-and-Chaff-from-an-English-Manor_13239
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Savory, Arthur Herbert
+    alias: Savory, Arthur H.
+    gutenberg_agent_id: '4950'
+    url: http://www.gutenberg.org/2009/agents/4950
+description: ''
+gutenberg_issued: '2004-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- England'
+- !lcc 'DA'
+- !lcsh 'Aldington (Worcestershire, England)'
+- !lcsh 'England -- Social life and customs'
+title: Grain and Chaff from an English Manor
+url: http://www.gutenberg.org/ebooks/13239
